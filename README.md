@@ -22,3 +22,8 @@
 - A Dragon is a tokenized micro-license used to interact with the Dragonchain commercial platform services.
 - Total supply of DRGN is capped at 433,494,437 Dragons.
 
+# How TIME is Calculated:
+- If I have 100 Dragons and I hold it for 10 days then my TIME will be 1000.
+- If I have 100 Dragons on day 10 and I add more 20 dragons on day 11 then my TIME on day 11 will be 1120, how? => (100 *11) + (20 * 1) = 1120
+- Note: 
+ - TIME is calculated with a Last-in-First-Out (LIFO) accounting method. This means that the TIME attached to the most recently-added Dragons will be the first to go if any move out of a wallet
