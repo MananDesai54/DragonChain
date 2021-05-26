@@ -34,3 +34,17 @@
 - If I have 100 Dragons and I hold it for 10 days then my TIME will be 1000.
 - If I have 100 Dragons on day 10 and I add more 20 dragons on day 11 then my TIME on day 11 will be 1120, how? :(100 *11) + (20 * 1) = 1120
 - 100 Dragons are put in an empty wallet. Five days later 50 more are added. On day 5 the TIME is 100*5 = 500. On day 6 the TIME is 500+100+50. On day 10 the TIME is (100 * 10)+(50 * 5)=1250. On day 10, 25 Dragons are sent from this wallet elsewhere. The TIME is now (100 * 10)+(25 * 5)=1125. (Notice the TIME is subtracted from the 25 Dragons most recently added, not the older ones.)
+
+# Dragon Net
+- It is a distributed blockchain for concensus in dragonchain.
+- Concecsus is done by 5 level of varification nodes
+
+# 5 Levels of varification
+- L1: where we deploy smart contract and store sensitive data.
+- L2: Validate block, headers and transactions
+- L3: Network diversity of L2 validations
+- L4: signs the validations done by L3 node (notry process)
+- L5: Connect with publich blockchains
+
+# Interchain
+- It allow us to connect our private dragonchin blockchain with available public blockchains(ETH, BTC)
