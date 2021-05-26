@@ -22,6 +22,12 @@
 - A Dragon is a tokenized micro-license used to interact with the Dragonchain commercial platform services.
 - Total supply of DRGN is capped at 433,494,437 Dragons.
 
+# What is TIME
+- TIME is the mechanism through which Dragon holders gain rewards for holding Dragon tokens over time. 
+- This creates a loyalty program for holders, helping to reduce volatility and keep funds secure. 
+- Dragons do not accumulate TIME when held in an exchange wallet.
+
+
 # How TIME is Calculated:
 - Note
   - TIME is calculated with a Last-in-First-Out (LIFO) accounting method. This means that the TIME attached to the most recently-added Dragons will be the first to go if any move out of a wallet
