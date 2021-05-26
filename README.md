@@ -48,3 +48,17 @@
 
 # Interchain
 - It allow us to connect our private dragonchin blockchain with available public blockchains(ETH, BTC)
+
+# Dragon Factor
+- It is an identity service, provide users access to there data and enable feature to set data privacy so them can limit access.
+
+# Dragon Academy
+- collection of resources  for learning
+
+# Dragon Scale
+- Dragonscale is a network connecting blockchain and crypto-related startups to the resources needed for successful launches.
+
+# Dragon Den
+- Dragon Den is a decentralized community built on the Dragonchain platform. Dragon Den is Dragonchain’s answer to fake news, trolling, bot posts, and censorship. Den incentivizes the creation and evaluation of quality content within a community.
+
+
