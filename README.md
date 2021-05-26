@@ -61,4 +61,10 @@
 # Dragon Den
 - Dragon Den is a decentralized community built on the Dragonchain platform. Dragon Den is Dragonchain’s answer to fake news, trolling, bot posts, and censorship. Den incentivizes the creation and evaluation of quality content within a community.
 
-
+# How secure Dragonchain is?
+- Security in dragon chain increases as we go down in level nodes
+- L1 is regular block chain so it can varify business data ny our buisness logic and also it can use POW, POS
+- L2 varify transaction, headers, blocks so more security
+- L3 create diversity and make sure that nodes in L2 is verified by more unique orgs, business network nodes
+- L4 signs all the verified txns
+- L5 allow us to access more public blockchains so more security
