@@ -68,3 +68,5 @@
 - L3 create diversity and make sure that nodes in L2 is verified by more unique orgs, business network nodes
 - L4 signs all the verified txns
 - L5 allow us to access more public blockchains so more security
+
+# How to ron on our local machine
